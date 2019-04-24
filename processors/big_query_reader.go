@@ -3,7 +3,8 @@ package processors
 import (
 	"errors"
 
-	bigquery "github.com/ChargePoint/bigquery/client"
+	bigquery "github.com/dailyburn/bigquery/client"
+
 	"github.com/ChargePoint/ratchet/data"
 	"github.com/ChargePoint/ratchet/logger"
 	"github.com/ChargePoint/ratchet/util"

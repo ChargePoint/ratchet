@@ -148,8 +148,8 @@
 		},
 		{
 			"checksumSHA1": "fQ/nLjromrQvlAXVNCohFssoVp8=",
-			"origin": "github.com/ChargePoint/ratchet/vendor/github.com/ChargePoint/bigquery/client",
-			"path": "github.com/ChargePoint/bigquery/client",
+			"origin": "github.com/ChargePoint/ratchet/vendor/github.com/dailyburn/bigquery/client",
+			"path": "github.com/dailyburn/bigquery/client",
 			"revision": "d6a62be95f73c0f27555bff1b87b036733c311c1",
 			"revisionTime": "2016-08-26T20:53:29Z"
 		},
